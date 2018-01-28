@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Заметки</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="time">Time</string>
+    <string name="enter_title">Введите заголовок</string>
+    <string name="enter_body">Текст</string>
+</resources>
