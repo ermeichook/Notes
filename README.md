@@ -4,7 +4,7 @@
 
 # Lib's
 - ormlite (DB)
-- butterknife
+- butterknife (The Butter Knife library will allow you to avoid a large number of similar code related to working with View elements in your Activity, fragments, holders, etc.)
 - Lint - scans Android project sources for potential bugs.
 Missing translations (and unused translations)
 Layout performance problems (all the issues the old layoutopt tool used to find, and more)
